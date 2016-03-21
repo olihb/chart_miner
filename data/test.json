@@ -1,0 +1,57 @@
+{
+    "title":"Test data for scatter",
+    "data":[
+        {
+            "x":12,
+            "y":32,
+            "id": 1,
+            "title":"name of point 1",
+            "attributes":[
+                {
+                    "name":"collection",
+                    "values":[1]
+                },
+                {
+                    "name": "tags",
+                    "values" : ["tag 1", "tag 2", "tag 3", "tag 4"]
+                }
+
+            ]
+        },
+        {
+            "x":22,
+            "y":42,
+            "id":2,
+            "title":"name of point 2",
+            "attributes":[
+                {
+                    "name":"collection",
+                    "values":[2]
+                },
+                {
+                    "name": "tags",
+                    "values" : ["tag 1", "tag 2-2", "tag 2-3", "tag 4"]
+                }
+
+            ]
+        },
+        {
+            "x":32,
+            "y":52,
+            "id":3,
+            "title":"name of point 3",
+            "attributes":[
+                {
+                    "name":"collection",
+                    "values":[3]
+                },
+                {
+                    "name": "tags",
+                    "values" : ["tag 3-1", "tag 3-2", "tag 3-3", "tag 4"]
+                }
+
+            ]
+        }
+    ]
+
+}
